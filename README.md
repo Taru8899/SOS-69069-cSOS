@@ -9,7 +9,9 @@ Whatever you do. SOS records. Whatever you do. Continue ...
 
 ## What is cSOS?
 
-**cSOS** (“Capped SOS”) is a **transferable ERC-20 token** that sits on top of the immutable SOS 69069 ledger.
+**cSOS** (“Capped SOS”) 
+(`0xce9B507C242Adf722DD1DE2d7aa5Db1BF2259D8F`)
+is a **transferable ERC-20 token** that sits on top of the immutable SOS 69069 ledger.
 
 ### The SOS 69069 Ledger
 
