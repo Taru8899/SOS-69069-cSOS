@@ -1,4 +1,3 @@
-```markdown
 # SOS 69069 cSOS
 
 **Android / desktop tool for querying, minting and deploying SOS 69069 cSOS.**
